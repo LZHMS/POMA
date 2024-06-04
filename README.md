@@ -59,7 +59,7 @@ CUDA_VISIBLE_DEVICES=0 bash parse_test.sh ${DATASET} rn50_ep50 end 16 16 6 False
 ```
 
 ## Framework
-<img src="./images/Framework.webp" alt="Model" />
+<img src="./images/Framework.png" alt="Model" />
 
 ## Results
 ### Abalation Study for POMA -- prompt blocks
