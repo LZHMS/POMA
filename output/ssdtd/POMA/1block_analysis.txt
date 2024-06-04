@@ -1,0 +1,40 @@
+Parsing files in ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp0
+./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp0
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp0/seed1/log.txt. accuracy: 60.82%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp0/seed2/log.txt. accuracy: 63.48%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp0/seed3/log.txt. accuracy: 61.41%. 
+===
+Summary of directory: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp0
+* accuracy: 61.90% +- 1.29%
+===
+Parsing files in ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp2
+./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp2
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp2/seed1/log.txt. accuracy: 59.16%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp2/seed2/log.txt. accuracy: 61.05%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp2/seed3/log.txt. accuracy: 59.10%. 
+===
+Summary of directory: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp2
+* accuracy: 59.77% +- 1.02%
+===
+Parsing files in ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp4
+./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp4
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp4/seed1/log.txt. accuracy: 56.74%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp4/seed2/log.txt. accuracy: 58.04%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp4/seed3/log.txt. accuracy: 58.27%. 
+===
+Summary of directory: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp4
+* accuracy: 57.68% +- 0.76%
+===
+Parsing files in ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp8
+./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp8
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp8/seed1/log.txt. accuracy: 49.11%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp8/seed2/log.txt. accuracy: 49.76%. 
+file: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp8/seed3/log.txt. accuracy: 49.29%. 
+===
+Summary of directory: ./output/ssdtd/POMA/rn50_ep50_16shots_EQULE_True__1block_rn50_random_init/nctx16_cscFalse_ctpend_fp8
+* accuracy: 49.39% +- 0.31%
+===
+Summarize performance
+| 61.90% +- 1.29% | 59.77% +- 1.02% | 57.68% +- 0.76% | 49.39% +- 0.31% |
+Average performance
+* accuracy: 57.19%
